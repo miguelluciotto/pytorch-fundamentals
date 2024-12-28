@@ -6,10 +6,10 @@ env/
 venv/
 myenv/
 # Unrelated files
-*.png
-*.jpeg
-*.jpg
-*.pdf
+#*.png
+#*.jpeg
+#*.jpg
+#*.pdf
 # Temporal files
 __pycache__/
 *py[cod]
