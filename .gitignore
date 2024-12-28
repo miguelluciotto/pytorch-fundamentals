@@ -1,0 +1,22 @@
+# Venv
+*.env
+*.venv
+*.myenv
+env/
+venv/
+myenv/
+# Unrelated files
+*.png
+*.jpeg
+*.jpg
+*.pdf
+# Temporal files
+__pycache__/
+*py[cod]
+tmp/
+*.tmp
+*.o
+*.log
+# Unwanted files
+.vscode/
+.idea/
